@@ -44,5 +44,5 @@ This project implements a recommendation system using Java and Apache Mahout, a 
 4. **Sample Data**:
    - The system includes sample user-item data. You can modify or expand the data to fit your use case.
 
-#OUTPUT: 
+#OUTPUT: ![Image](https://github.com/user-attachments/assets/8df852d2-3a24-4e05-a813-c713045852ab)
 
